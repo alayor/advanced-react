@@ -1,5 +1,6 @@
 node_modules/
-public/
+public/vendor.js
+public/app.js
 *.log
 *.lock
 coverage/
